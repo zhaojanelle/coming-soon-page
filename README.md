@@ -4,7 +4,7 @@
 
 Create a business card website to act as the coming soon page for your portfolio.
 
-#### [⬇ Preview the wireframe]()
+#### [⬇ Preview the wireframe](https://github.com/acgd-webdev-4/assignment-1/blob/master/wireframe.png)
 
 ---
 
@@ -15,7 +15,7 @@ Create a business card website to act as the coming soon page for your portfolio
 
 Create a coming soon page for your portfolio website—but it should not say “coming soon” or “under construction” anywhere. Think of it as a business card website.
 
-The [included wireframe]() is an example of what you might do on large screen websites. *It’s up to you to design if for all screen sizes.*
+The [included wireframe](https://github.com/acgd-webdev-4/assignment-1/blob/master/wireframe.png) is an example of what you might do on large screen websites. *It’s up to you to design if for all screen sizes.*
 
 - Should contain the following information: your name, a brief bio, email address, social media links, photo or icon.
 - Make sure the website is flexible 320px – ~2500px.
