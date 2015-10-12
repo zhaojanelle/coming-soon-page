@@ -1,6 +1,6 @@
 # Assignment 1: Business card website
 
-#### ⚑ Due before week 2
+#### ⚑ Due before class week 2
 
 Create a business card website to act as the coming soon page for your portfolio.
 
