@@ -2,7 +2,7 @@
 
 #### ⚑ Due before class week 2
 
-Create a business card website to act as the coming soon page for your portfolio.
+**Create a business card website to act as the coming soon page for your portfolio.**
 
 #### [⬇ See an example wireframe](https://github.com/acgd-webdev-4/assignment-1/blob/master/wireframe.png)
 
