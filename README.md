@@ -1,7 +1,7 @@
 ---
-summary: 'Make a single page, coming soon website as a placeholder for your portfolio—but it should not say “coming soon” or “under construction” anywhere. Think of it as a business card website.'
-time: '4 hours'
-deliverables: '1 HTML file, 1 CSS file, images'
+summary: "Make a single page, coming soon website as a placeholder for your portfolio—but it should not say “coming soon” or “under construction” anywhere. Think of it as a business card website."
+time: "4 hours"
+deliverables: "1 HTML file, 1 CSS file, images"
 ---
 
 # Coming soon page
@@ -18,7 +18,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 
 The included wireframe is an example of what you might do on large screen websites. *It’s up to you to design it for all screen sizes.*
 
-- [See the example wireframe](wireframe.png)
+![](wireframe.png)
 
 **Obviously you should make it your own thing with your own style and brand.**
 
