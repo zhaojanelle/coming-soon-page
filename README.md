@@ -1,11 +1,12 @@
-# Coming soon page
-
-- Approx. completion time: **4 hours**
-- Deliverables: **1 HTML file, 1 CSS file, images**
-
+---
+summary: 'Make a single page, coming soon website as a placeholder for your portfolio—but it should not say “coming soon” or “under construction” anywhere. Think of it as a business card website.'
+time: '4 hours'
+deliverables: '1 HTML file, 1 CSS file, images'
 ---
 
-**Make a single page, coming soon website as a placeholder for your portfolio—but it should not say “coming soon” or “under construction” anywhere. Think of it as a business card website.**
+# Coming soon page
+
+## Overview
 
 - Should contain the following information: your name, a brief bio, email address, social media links, photo or icon.
 - Make sure the website is flexible 320px – ~2500px.
