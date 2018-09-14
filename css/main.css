@@ -7,3 +7,25 @@
 html {
   font-family: "Libre Franklin", sans-serif;
 }
+
+
+p {
+  font-size: 2.7rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.profile {
+  float: none;
+  width: 70%;
+}
+
+
+@media only screen and (min-width: 35em) {
+
+  .profile {
+    float: left;
+    width: 50%;
+  }
+
+}
