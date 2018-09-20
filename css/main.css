@@ -13,13 +13,11 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
-p {
-  font-weight: 300;
-}
 
 .intro-text {
   color: #0056FF;
   font-weight: normal;
+  margin-top: 30px;
 }
 
 .main-card {
@@ -32,6 +30,8 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin-bottom: 35px;
+  margin-top: 30px;
 }
 
 .social-links {
