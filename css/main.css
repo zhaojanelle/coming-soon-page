@@ -38,6 +38,11 @@ html {
   color: #0056FF;
   text-decoration: none;
   font-weight: bold;
+  transition: all 200ms ease-in-out;
+}
+
+.social-links:hover {
+  color: #5affc4;
 }
 
 .social {
