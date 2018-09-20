@@ -8,30 +8,39 @@ html {
   color: #000000;
   background-color: #FFFBE5;
   font-family: serif;
-  line-height: 1.2;
   font-family: "brandon-grotesque",sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 p {
   font-weight: 300;
-  font-size: 1rem;
 }
 
 .intro-text {
   color: #0056FF;
-  font-size: 1.8rem;
   font-weight: normal;
 }
 
 .main-card {
-  border: 4px solid #0056FF;
+  border: 3px solid #0056FF;
   background: white;
-  box-shadow: 17px 17px 0 -4px white, 17px 17px 0 #0056FF, 34px 34px 0 -4px white, 34px 34px 0 #0056FF;
+  box-shadow: 17px 17px 0 -3px white, 17px 17px 0 #0056FF, 34px 34px 0 -3px white, 34px 34px 0 #0056FF;
 }
 
+.image-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 
 .social-links {
-  color: #F35A31;
+  color: #0056FF;
   text-decoration: none;
   font-weight: bold;
+}
+
+.social {
+  display: flex;
+  justify-content: space-between;
 }
